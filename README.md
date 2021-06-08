@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadHamzaShahid
 - 👀 I’m interested in SuiteCRM/SugarCRM
 - 🌱 I’m currently working on SuiteCRM
-- 💞️ I’m looking to help you regarding any issue 
+- 💞️ I’m looking to help you regarding any SuiteCRM issue 
 - 📫 How to reach me hamzashahid281@yahoo.com
 
 <!---
